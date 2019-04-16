@@ -3,6 +3,7 @@ h2{
   font-size: 22;
   text-decoration: underline;  
   font-weight: 100;
+  color: red;
 }
 p{ 
   line-height: 3; 
