@@ -4,4 +4,6 @@ h2{
   text-decoration: underline;  
   font-weight: 100;
 }
-
+p{ 
+  line-height: 40; 
+}
