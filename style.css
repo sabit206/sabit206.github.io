@@ -1,3 +1,7 @@
+.wrapper { 
+  margin: 0 auto;
+  width: 1000; 
+} 
 h2{
   font-family: arial;
   font-size: 22;
@@ -10,7 +14,4 @@ p{
   font-size: 15;
   text-indent: 10;
 }
-wrapper { 
-  margin: 0 auto;
-  width: 1000; 
-}
+
