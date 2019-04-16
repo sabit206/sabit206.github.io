@@ -10,3 +10,7 @@ p{
   font-size: 15;
   text-indent: 10;
 }
+wrapper { 
+  margin: 0 auto;
+  width: 1000; 
+}
